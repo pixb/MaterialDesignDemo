@@ -48,6 +48,7 @@ public class ChangeSkinFragment extends BaseFragment {
             @Override
             public void onClick(View v) {
                 String skinFullName = SKIN_DIR + File.separator + "skin_brown.skin";
+                Log.d(TAG,"setUpView(),skinFullName:" + skinFullName);
                 FileUtils.moveRawToDir(getMContext(), "skin_brown.skin", skinFullName);
                 File skin = new File(skinFullName);
                 if (!skin.exists()) {

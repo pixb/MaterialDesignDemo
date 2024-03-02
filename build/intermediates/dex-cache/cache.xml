@@ -2,11 +2,283 @@
 <items version="2" >
 
     <item
-        jar="F:\MyProject\TRS\MaterialDesignDemo\app\build\intermediates\exploded-aar\MaterialDesignDemo\library\unspecified\jars\classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="a7ddc820dcfa54239d0cc02079f0bdcfa71a75db">
-        <dex dex="F:\MyProject\TRS\MaterialDesignDemo\app\build\intermediates\pre-dexed\debug\classes-8f6727ef4e8d08ce52ad8891f8f6fdc7d60c3f09.jar" />
+        is-multidex="true"
+        jar="/Users/tangpengxiang/.android/build-cache/180a17cd522bfde69c0412522e97f232ab789dad/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa6f74194806099bd3ea8e9ce3d9be4aa7d67e1c">
+        <dex dex="/Volumes/Data/dev/code/demo/MaterialDesignDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_32074b570ae2e2785fcaa55635a5f21c36875496/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tangpengxiang/.android/build-cache/5fe56bce17179222ce6ea268a3f44558e406b410/output/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Volumes/Data/dev/code/demo/MaterialDesignDemo/skin_black/build/intermediates/pre-dexed/release/internal_impl-23.1.1_d9b7f2f7740cb746e61ed40d90aac4106520a41d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tangpengxiang/.android/build-cache/c68c7211f53e1de0af1e9a39abdc1c07fdd19301/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Volumes/Data/dev/code/demo/MaterialDesignDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_be74530a93dbcaf7a1e050793b6be22b416ea6c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Data/dev/code/demo/MaterialDesignDemo/skin_black/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/Volumes/Data/dev/code/demo/MaterialDesignDemo/skin_black/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7766a9d74270086a550c57b0763df76000aea7fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tangpengxiang/.android/build-cache/762b10bafcdb4085341ef25998e25d8f4bc87d4b/output/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Volumes/Data/dev/code/demo/MaterialDesignDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_e0744f7fe259ce26fbc029f77a99860260271f21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tangpengxiang/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Volumes/Data/dev/code/demo/MaterialDesignDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_b1c55483c72bbe543d5ab3a3c836d53d99116905/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tangpengxiang/.android/build-cache/5fe56bce17179222ce6ea268a3f44558e406b410/output/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Volumes/Data/dev/code/demo/MaterialDesignDemo/skin_black/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_d9b7f2f7740cb746e61ed40d90aac4106520a41d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Data/dev/code/demo/MaterialDesignDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/Volumes/Data/dev/code/demo/MaterialDesignDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c03aa1f04260e02cd81706db07fe2f182c8a5ddb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tangpengxiang/.android/build-cache/ed7685f172a8da30e3293756de51e2903a6ec4a1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e39dd45427d2ba136c82ed1946f80dd3dff16695">
+        <dex dex="/Volumes/Data/dev/code/demo/MaterialDesignDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a5001e2f99aff32906ce8933accf6bfb5f812d5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tangpengxiang/.android/build-cache/762b10bafcdb4085341ef25998e25d8f4bc87d4b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Volumes/Data/dev/code/demo/MaterialDesignDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_903ed8811a86fb6e575a9baae24d2dcb2ebfbda5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tangpengxiang/.android/build-cache/5fe56bce17179222ce6ea268a3f44558e406b410/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Volumes/Data/dev/code/demo/MaterialDesignDemo/skin_black/build/intermediates/pre-dexed/release/classes_8fe7b153e669473128e4fc713266bdfd166cb4c2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tangpengxiang/.android/build-cache/dee2e9258e5b46050dba18a82f10926b17e8e15f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="096d46fed1f5b5320c5f76fca225fb899ff8843a">
+        <dex dex="/Volumes/Data/dev/code/demo/MaterialDesignDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_52ec1e6a02eed2887841a8b25c4e732367775fff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Data/dev/code/demo/MaterialDesignDemo/skin_black/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="3e6c7cbf9bf7a32b4e40d7d86f99e3c2c162c3f5">
+        <dex dex="/Volumes/Data/dev/code/demo/MaterialDesignDemo/skin_black/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_662911ca60e8a8fe5feddd785e87aabbc86c4149/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tangpengxiang/.android/build-cache/5fe56bce17179222ce6ea268a3f44558e406b410/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Volumes/Data/dev/code/demo/MaterialDesignDemo/skin_black/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8fe7b153e669473128e4fc713266bdfd166cb4c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tangpengxiang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Volumes/Data/dev/code/demo/MaterialDesignDemo/skin_black/build/intermediates/pre-dexed/release/support-annotations-23.1.1_99d2f709ebcb37943ca7d8a5ca9ddea479be04e0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tangpengxiang/.android/build-cache/9b5f5f1cb5598a7aedd67d9e0d45ca6eab5b3554/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Volumes/Data/dev/code/demo/MaterialDesignDemo/skin_black/build/intermediates/transforms/dex/debug/folders/1000/10/classes_59403dd9289ca9298c1aa15b2f7eebae1c0a1da1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tangpengxiang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Volumes/Data/dev/code/demo/MaterialDesignDemo/skin_black/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_99d2f709ebcb37943ca7d8a5ca9ddea479be04e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Data/dev/code/demo/MaterialDesignDemo/skin_brown/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="a82406f4db7cffc127f1c2227963f9fbd89652d1">
+        <dex dex="/Volumes/Data/dev/code/demo/MaterialDesignDemo/skin_brown/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_30f5c813d70fbb547a25e76b54b26f126f9bee63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tangpengxiang/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Volumes/Data/dev/code/demo/MaterialDesignDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.2.4_944db6d298bdb2980f4ec066a5d78a26b2b63382/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tangpengxiang/.android/build-cache/8adf8e46871414dd2fc7a880797cc9ec8028d58a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="/Volumes/Data/dev/code/demo/MaterialDesignDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c0845f662c7726e4f6787fe74c59b65696e47ce4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tangpengxiang/.gradle/caches/modules-2/files-2.1/com.readystatesoftware.systembartint/systembartint/1.0.3/de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287/systembartint-1.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287">
+        <dex dex="/Volumes/Data/dev/code/demo/MaterialDesignDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/systembartint-1.0.3_ab014946ecd5b8024d240d505a87150d4c3c88e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tangpengxiang/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Volumes/Data/dev/code/demo/MaterialDesignDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_60afe8a02c71a786569c53ad46bcba0bcbce06c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tangpengxiang/.android/build-cache/9b5f5f1cb5598a7aedd67d9e0d45ca6eab5b3554/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Volumes/Data/dev/code/demo/MaterialDesignDemo/skin_black/build/intermediates/pre-dexed/release/classes_59403dd9289ca9298c1aa15b2f7eebae1c0a1da1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tangpengxiang/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Volumes/Data/dev/code/demo/MaterialDesignDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_57783e0f638c1e29a2bd222611dcbb76bd01e268/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Data/dev/code/demo/MaterialDesignDemo/skin_brown/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.0"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/Volumes/Data/dev/code/demo/MaterialDesignDemo/skin_brown/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e5aa329bac8df4aa71598aeaca8577c88a144320/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tangpengxiang/.android/build-cache/6d630d7d1320cc1d24227b14088039d10abffd41/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Volumes/Data/dev/code/demo/MaterialDesignDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_31e31250e7906f502bdc67063dade56a232cd199/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tangpengxiang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Volumes/Data/dev/code/demo/MaterialDesignDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_09d22cca62e4579959313bf2ea802f23ba8d2818/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tangpengxiang/.android/build-cache/0ee759ef69b01952eece3dc1da01982a8cff80d1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/Volumes/Data/dev/code/demo/MaterialDesignDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_91cf59a53b73a507fe5c1c6d113d230a90cfa9e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Data/dev/code/demo/MaterialDesignDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fe2936cede321159d463638775fc5e21725839b3">
+        <dex dex="/Volumes/Data/dev/code/demo/MaterialDesignDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_71d502d2c79d61986c7fc0343dee18cc74142518/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tangpengxiang/.android/build-cache/326464cd513009e1b09a5b8ed87c5fc550d53281/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0724e4d93c85866c8953b74776fa320efa122205">
+        <dex dex="/Volumes/Data/dev/code/demo/MaterialDesignDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9e5c218a9f8966ae6a08721f57be0012021be1f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tangpengxiang/.android/build-cache/9b5f5f1cb5598a7aedd67d9e0d45ca6eab5b3554/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Volumes/Data/dev/code/demo/MaterialDesignDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_59403dd9289ca9298c1aa15b2f7eebae1c0a1da1/classes.dex" />
     </item>
 
 </items>
